@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hansa A S
 
-<!--
-**HansaSrinivasan/HansaSrinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious individual with a well-honed, responsible work approach, committed to continuous self-improvement within a challenging professional landscape. My aim is to leverage my capabilities to their fullest potential for advancements.
 
-Here are some ideas to get you started:
+## 🌐 Key Personal Attributes include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficiency in collaborative team dynamics. 
+- The ability to delve into the fundamental aspects of any challenge
+- Unwavering attention to precision and detail
+- Effective communication aptitude
+- A diligent, professional work ethic coupled with a consistently positive outlook
+
+## 💻 Skills:
+
+- **Programming Language**: Python  
+- **Web Technologies**: HTML, CSS, JS  
+- **Database**: MySQL, MongoDB  
+- **Tools**: Microsoft Excel, Microsoft PowerBI
+
+## 🎓 Education
+- Coimbatore Institute of Technology  
+- 📍 Coimbatore
+
+## 📧 Contact:
+- **Linkedin**: https://www.linkedin.com/in/hansaas/
+- **Email**: hansasrini2000@gmail.com
+
+
+
+
+
+
+
