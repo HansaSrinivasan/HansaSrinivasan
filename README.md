@@ -17,10 +17,6 @@ An ambitious individual with a well-honed, responsible work approach, committed 
 - **Database**: MySQL, MongoDB  
 - **Tools**: Microsoft Excel, Microsoft PowerBI
 
-## 🎓 Education
-- Coimbatore Institute of Technology  
-- 📍 Coimbatore
-
 ## 📧 Contact:
 - **Linkedin**: https://www.linkedin.com/in/hansaas/
 - **Email**: hansasrini2000@gmail.com
