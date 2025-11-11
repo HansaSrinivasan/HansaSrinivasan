@@ -5,17 +5,17 @@ An ambitious individual with a well-honed, responsible work approach, committed 
 ## 🌐 Key Personal Attributes include:
 
 - Proficiency in collaborative team dynamics. 
-- The ability to delve into the fundamental aspects of any challenge
-- Unwavering attention to precision and detail
+- The ability to delve into the fundamental aspects of challenges
+- Attention to precision and detail
 - Effective communication aptitude
 - A diligent, professional work ethic coupled with a consistently positive outlook
 
 ## 💻 Skills:
 
 - **Programming Language**: Python  
-- **Web Technologies**: HTML, CSS, JS  
-- **Database**: MySQL, MongoDB  
-- **Tools**: Microsoft Excel, Microsoft PowerBI
+- **Web Technologies**: HTML, CSS, JS (Basics)
+- **Database**: MySQL 
+- **Tools**: Microsoft PowerBI, Microsoft Excel
 
 ## 📧 Contact:
 - **Linkedin**: https://www.linkedin.com/in/hansaas/
